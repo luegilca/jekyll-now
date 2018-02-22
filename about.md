@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student of he undergraduate degree in Systems Engineering at Universidad Nacional de Colombia.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+```javascript
+/* I like camelCase */
+var uglyArray = array( );
+uglyArray.forEach( funcion( element ) ) {
+	console.log( element );
+});
+```
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[luegilca@unal.edu.co](mailto:luegilca@unal.edu.co)
