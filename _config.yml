@@ -3,13 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Luis Ernesto Gil castellanos
+name: Luis Ernesto Gil Castellanos
 
 # Short bio or description (displayed in the header)
 description: Universidad Nacional de Colombia, Sede Bogotá.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/18444320?s=460&v=4
+
+# remote_theme: "mmistakes/minimal-mistakes"
 
 #
 # Flags below are optional
@@ -18,7 +20,7 @@ avatar: https://avatars2.githubusercontent.com/u/18444320?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: luegilca@unal.edu.com
+  email: luegilca@unal.edu.co
   facebook: luegilca
   flickr:
   github: luegilca
@@ -62,11 +64,11 @@ version: v1.2.0
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting  
+  #syntax_highlighter: rouge  
+  #syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    #css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
 sass:
