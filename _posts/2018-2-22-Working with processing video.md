@@ -9,7 +9,7 @@ Once this workshop was successfully developed, the teacher suggested doing the s
 
 Currently my laptop is not very powerful, or CPU, or GPU, or RAM, but it is just to do most of my work without problems, in addition, the operating system on which I was trying everything in this little post is Fedora 26 Workstation
 
-![Error using the library]({{ site.baseurl }}/images/2017-2-22/processing_video_error.png "Architecture error")
+![Error using the library]({{ site.baseurl }}/images/2018-2-22/processing_video_error.png "Architecture error")
 
 ~~~
  UnsatisfiedLinkError: Error looking up function 'gst_date_get_type': /usr/lib64/libgstreamer-1.0.so.0.1203.0: undefined symbol: gst_date_get_type
@@ -30,4 +30,4 @@ sudo dnf install gstreamer {1,} - {ffmpeg, libav, plugins- {good, ugly, bad {, -
 ~~~
 Voilà! Now I can play videos with Processing 3, I just need to do the activity proposed by the teacher in the class ...
 
-![Problem solved!]({{ site.baseurl }}/images/2017-2-22/solved.png "Solved :D")
+![Problem solved!]({{ site.baseurl }}/images/2018-2-22/solved.png "Solved :D")
