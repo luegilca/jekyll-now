@@ -56,15 +56,15 @@ Languages:
 
 I like my code nice and well-spaced, usually using camelCase and sometimes i like to play basketball.
 
-```javascript
+~~~
 /* I like camelCase */
 
 var uglyArray = [ "e", "m", "c", "2" ];
 uglyArray.forEach( funcion( element ) ) {
 	console.log( element );
 });
-
-```
+~~~
+{: .language-javascript}
 
 ### Contact me
 
